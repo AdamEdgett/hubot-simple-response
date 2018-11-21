@@ -1,0 +1,12 @@
+{
+  "name": "hubot-simple-response",
+  "version": "1.0.0",
+  "description": "Replies to a keyword with a static response",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamEdgett/hubot-simple-response.git"
+  },
+  "author": "Adam Edgett <adam.edgett@gmail.com>",
+  "license": "MIT"
+}
